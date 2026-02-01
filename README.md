@@ -69,22 +69,17 @@ Quiz Master: Trivia & GK offers a **well-structured and engaging quiz experience
 
 <div align="center">
 
-### Home Screen
+
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/0.webp?v=1768413160771" alt="Home Screen" width="600"/>
 
-### Quiz Categories
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/1.webp?v=1768413162281" alt="Quiz Categories" width="600"/>
 
-### Quiz Gameplay
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/2.webp?v=1768413163683" alt="Quiz Gameplay" width="600"/>
 
-### Results Screen
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/3.webp?v=1768413165538" alt="Results Screen" width="600"/>
 
-### Statistics Dashboard
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/4.webp?v=1768413169012" alt="Statistics Dashboard" width="600"/>
 
-### Settings & Customization
 <img src="https://img.ionicerrrrscode.com/company-projects/quiz-master-web-application/5.webp?v=1768413170528" alt="Settings" width="600"/>
 
 </div>
